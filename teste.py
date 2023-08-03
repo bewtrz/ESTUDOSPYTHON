@@ -56,7 +56,7 @@ print(nome1 * 3) '''
 #idade = input('qual a sua idade?')
 #print(idade)
 
-#função Len serve para c
+#função Len serve para contar a quantidade de caractere
 
 #palavras = 'hoje é um novo dia'
 #print(len(palavras))
